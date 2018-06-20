@@ -1,0 +1,11 @@
+{
+  "generator-react-node": {
+    "promptValues": {
+      "username": "zacharymorel",
+      "repoUrl": "https://github.com/zacharymorel",
+      "authorName": "Zachary Morel",
+      "authorEmail": "morelz133@gamil.com",
+      "authorUrl": "https://zacharymorel.github.io/"
+    }
+  }
+}
